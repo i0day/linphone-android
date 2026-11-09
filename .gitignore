@@ -12,3 +12,6 @@ app/release/
 .idea/
 app/bc-android.keystore
 .kotlin/
+
+# Firebase config (contains API key) - keep local, see app/google-services.json.example
+app/google-services.json
